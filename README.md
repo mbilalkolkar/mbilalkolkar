@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/mbilalkolkar/github-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilalkolkar&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
 </a>
-<a href="https://github.com/mbilalkolkar/wakatime">
+<!-- <a href="https://github.com/mbilalkolkar/wakatime">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mbilalkolkar&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
-</a>
+</a> -->
